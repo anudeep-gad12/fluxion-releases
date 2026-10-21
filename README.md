@@ -2,7 +2,7 @@
   <img src="docs/hero.png" width="900" alt="Fluxion running a task: activity rows in the conversation, the same conversation in the terminal, and the project's files beside it">
 </p>
 
-<h1 align="center">Fluxion</h1>
+<h1 align="center"><img src="docs/icon.png" width="48" height="48" alt="" align="center"> Fluxion</h1>
 
 <p align="center">
   <b>Pick up where you left off, with any model.</b><br>
